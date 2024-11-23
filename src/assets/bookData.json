@@ -1,0 +1,83 @@
+{
+    "books": [
+      {
+        "bookId": 1,
+        "bookName": "The Silent Patient",
+        "author": "Alex Michaelides",
+        "image": "https://mindjoggle.com/wp-content/uploads/2019/04/the-silent-patient-cover.png",
+        "review": "A gripping psychological thriller with a shocking twist.",
+        "totalPages": 336,
+        "rating": 4.5,
+        "category": "Fiction",
+        "tags": ["Suspense", "Psychological"],
+        "publisher": "Celadon Books",
+        "yearOfPublishing": 2019
+      },
+      {
+        "bookId": 2,
+        "bookName": "Educated",
+        "author": "Tara Westover",
+        "image": "https://m.media-amazon.com/images/I/81WojUxbbFL._AC_UY436_FMwebp_QL65_.jpg",
+        "review": "A powerful memoir about resilience and the power of education.",
+        "totalPages": 352,
+        "rating": 4.7,
+        "category": "Non-Fiction",
+        "tags": ["Memoir", "Inspiring"],
+        "publisher": "Random House",
+        "yearOfPublishing": 2018
+      },
+      {
+        "bookId": 3,
+        "bookName": "The Midnight Library",
+        "author": "Matt Haig",
+        "image": "https://media.npr.org/assets/img/2020/09/30/815-u8gacyl_custom-56b93f54c3bde063acf1f74a343642b8c77c57c3-s1400.jpg",
+        "review": "A heartwarming story about second chances and exploring possibilities.",
+        "totalPages": 304,
+        "rating": 4.4,
+        "category": "Fiction",
+        "tags": ["Philosophical", "Emotional"],
+        "publisher": "Viking",
+        "yearOfPublishing": 2020
+      },
+      {
+        "bookId": 4,
+        "bookName": "Becoming",
+        "author": "Michelle Obama",
+        "image": "https://m.media-amazon.com/images/I/81h2gWPTYJL._AC_UY436_FMwebp_QL65_.jpg",
+        "review": "An inspiring and candid account of a remarkable life journey.",
+        "totalPages": 448,
+        "rating": 4.8,
+        "category": "Biography",
+        "tags": ["Inspiring", "Memoir"],
+        "publisher": "Crown Publishing Group",
+        "yearOfPublishing": 2018
+      },
+      {
+        "bookId": 5,
+        "bookName": "Dune",
+        "author": "Frank Herbert",
+        "image": "https://www.indiependent.co.uk/wp-content/uploads/2020/06/A1u2fY5yTL-scaled.jpg",
+        "review": "An epic science fiction masterpiece with a richly detailed universe.",
+        "totalPages": 896,
+        "rating": 4.6,
+        "category": "Science Fiction",
+        "tags": ["Epic", "Adventure"],
+        "publisher": "Chilton Books",
+        "yearOfPublishing": 1965
+      },
+      {
+        "bookId": 6,
+        "bookName": "Sapiens: A Brief History of Humankind",
+        "author": "Yuval Noah Harari",
+        "image": "https://m.media-amazon.com/images/I/713jIoMO3UL._AC_UY436_FMwebp_QL65_.jpg",
+        "review": "A thought-provoking exploration of human history and evolution.",
+        "totalPages": 464,
+        "rating": 4.7,
+        "category": "Non-Fiction",
+        "tags": ["History", "Anthropology"],
+        "publisher": "Harvill Secker",
+        "yearOfPublishing": 2011
+      }
+    ]
+  }
+  
